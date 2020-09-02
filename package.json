@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/angelxtry/Github-feature-test/issues"
   },
-  "homepage": "https://github.com/angelxtry/Github-feature-test#readme"
+  "homepage": "https://github.com/angelxtry/Github-feature-test#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
 }
